@@ -16,7 +16,7 @@ Student at the **Central University of Ecuador**, focused on creating innovative
 
 ---
 
-## 👨‍💻 **Interactive Image**  
+## 👨‍💻 **Building the Future of the Code**  
 <p align="center">
    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Interactive Developer" width="400">
 </p>
