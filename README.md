@@ -13,7 +13,7 @@ Soy estudiante/desarrollador de la **Universidad Central del Ecuador**, enfocado
 
 ## 🎓 **Logo de la Universidad Central del Ecuador**
 <p align="center">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_UCE.png/600px-Logo_UCE.png" alt="Logo Universidad Central del Ecuador" width="150">
+   <img src="https://uvirtualenlinea.uce.edu.ec/commons/thumb/b/bf/Logo_UCE.png/600px-Logo_UCE.png" alt="Logo Universidad Central del Ecuador" width="150">
 </p>
 
 ---
