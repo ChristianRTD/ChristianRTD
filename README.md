@@ -2,23 +2,19 @@
 
 ---
 
-![Banner con Logo Universidad Central y Desarrollo](https://via.placeholder.com/1000x250.png?text=¡Hola!+Desarrollador+de+la+Universidad+Central+del+Ecuador)
-
----
-
-## 🚀 **Desarrollador apasionado**  
-Soy estudiante/desarrollador de la **Universidad Central del Ecuador**, enfocado en el desarrollo de aplicaciones interactivas.
-
----
-
-## 🎓 **Logo de la Universidad Central del Ecuador**
+## 👨‍💻 **Desarrollador - Universidad Central del Ecuador**  
 <p align="center">
-   <img src="https://uvirtualenlinea.uce.edu.ec/commons/thumb/b/bf/Logo_UCE.png/600px-Logo_UCE.png" alt="Logo Universidad Central del Ecuador" width="150">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_UCE.png/600px-Logo_UCE.png" alt="Logo Universidad Central del Ecuador" width="150">
 </p>
 
 ---
 
-## 👨‍💻 **Interactividad y desarrollo**  
+## 🚀 **Soy un desarrollador apasionado**  
+Estudiante de la **Universidad Central del Ecuador**, enfocado en crear soluciones innovadoras en el mundo del desarrollo de software.
+
+---
+
+## 👨‍💻 **Imagen Interactiva**  
 <p align="center">
    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Desarrollador interactivo" width="400">
 </p>
@@ -26,9 +22,9 @@ Soy estudiante/desarrollador de la **Universidad Central del Ecuador**, enfocado
 ---
 
 ### 🔗 **Conéctate conmigo**:
-- 🌐 [LinkedIn](https://linkedin.com/in/ChristianRTD)
-- 📸 [Instagram](https://instagram.com/ChristianRTD)
-- 🐙 [GitHub](https://github.com/ChristianRTD)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ChristianRTD)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ChristianRTD)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/ChristianRTD)
 
 ---
 
@@ -58,5 +54,4 @@ Soy estudiante/desarrollador de la **Universidad Central del Ecuador**, enfocado
 > *"El conocimiento es poder, pero la práctica es la clave del éxito"* 🚀
 
 ---
-
 
