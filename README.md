@@ -1,37 +1,36 @@
-# 👋 ¡Hola! Soy Christian RTD
+# 👋 **Hello! I'm Christian RTD**
 
 ---
 
-## 👨‍💻 **Desarrollador - Universidad Central del Ecuador**  
+## 👨‍💻 **Developer - Central University of Ecuador**  
 <p align="center">
    <a href="https://www.uce.edu.ec/web/fing/" target="_blank">
-      Universidad Central del Ecuador - Facultad - Ingeniería Y Ciencias Aplicadas
+      Central University of Ecuador - Faculty of Engineering and Applied Sciences
    </a>
 </p>
 
+---
+
+## 🚀 **I'm a Passionate Developer**  
+Student at the **Central University of Ecuador**, focused on creating innovative solutions in the world of software development.
 
 ---
 
-## 🚀 **Soy un desarrollador apasionado**  
-Estudiante de la **Universidad Central del Ecuador**, enfocado en crear soluciones innovadoras en el mundo del desarrollo de software.
-
----
-
-## 👨‍💻 **Imagen Interactiva**  
+## 👨‍💻 **Interactive Image**  
 <p align="center">
-   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Desarrollador interactivo" width="400">
+   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Interactive Developer" width="400">
 </p>
 
 ---
 
-### 🔗 **Conéctate conmigo**:
+### 🔗 **Connect with Me**:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ChristianRTD)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ChristianRTD)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/ChristianRTD)
 
 ---
 
-### 🛠 **Lenguajes y herramientas**:
+### 🛠 **Languages and Tools**:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -41,20 +40,19 @@ Estudiante de la **Universidad Central del Ecuador**, enfocado en crear solucion
 
 ---
 
-### 📊 **Mis estadísticas de GitHub**:
+### 📊 **My GitHub Stats**:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristianRTD&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianRTD&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianRTD&layout=compact&theme=tokyonight)
 
 ---
 
-### 👨‍🎓 **Sobre mí**:
-- 🎓 Estudiante de la **Universidad Central del Ecuador**.
-- 🔭 Trabajando en proyectos de desarrollo **Full-Stack**.
-- 🌱 Aprendiendo nuevas tecnologías: **Docker** y **Next.js**.
+### 👨‍🎓 **About Me**:
+- 🎓 Student at the **Central University of Ecuador**.
+- 🔭 Working on **Full-Stack** development projects.
+- 🌱 Learning new technologies: **Docker** and **Next.js**.
 
 ---
 
-> *"El conocimiento es poder, pero la práctica es la clave del éxito"* 🚀
+> *"Knowledge is power, but practice is the key to success"* 🚀
 
 ---
-
