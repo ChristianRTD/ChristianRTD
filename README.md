@@ -5,7 +5,7 @@
 ## 👨‍💻 **Desarrollador - Universidad Central del Ecuador**  
 <p align="center">
    <a href="https://www.uce.edu.ec/web/fing/" target="_blank">
-      Universidad Central del Ecuador - Aula Virtual
+      Universidad Central del Ecuador - Facultad - Ingeniería Y Ciencias Aplicadas
    </a>
 </p>
 
