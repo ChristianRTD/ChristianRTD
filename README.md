@@ -4,7 +4,7 @@
 
 ## 👨‍💻 **Desarrollador - Universidad Central del Ecuador**  
 <p align="center">
-   <a href="https://uvirtualenlinea.uce.edu.ec/" target="_blank">
+   <a href="https://www.uce.edu.ec/web/fing/" target="_blank">
       Universidad Central del Ecuador - Aula Virtual
    </a>
 </p>
