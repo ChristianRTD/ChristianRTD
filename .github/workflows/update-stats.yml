@@ -1,0 +1,33 @@
+name: Update GitHub Stats
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 * * * *" # Runs every hour (you can adjust this cronjob)
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Clone the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # 2. Install an action to update the README with statistics.
+      - name: Update GitHub Stats in README
+        uses: anmol098/waka-readme-stats@master
+        with:
+          ###WAKATIME_API_KEY: $#{{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. Commitee and upload the changes
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m "Update GitHub Stats in README"
+          git push
