@@ -2,27 +2,31 @@ name: Update GitHub Stats in README
 
 on:
   schedule:
-    - cron: "0 * * * *" # Runs every hour
+    - cron: "0 * * * *" # Se ejecuta cada hora
   push:
     branches:
       - main # Cambia a la rama principal de tu repositorio si es diferente de 'main'
-  workflow_dispatch: # Allows to execute manually
+  workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+    # 1. Verificar el repositorio
     - name: Check out repository
       uses: actions/checkout@v3
 
+    # 2. Generar las estadísticas de GitHub
     - name: Generate GitHub Stats
       uses: anmol098/waka-readme-stats@master
       with:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        # Si estás usando WakaTime, agrega el API key aquí
-        # WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }} # Usa tu token de GitHub almacenado en los secretos
 
+        # Si estás usando WakaTime, agrega la clave API aquí:
+        # WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # Descomenta y agrega tu API key si usas WakaTime
+
+    # 3. Realizar el commit de las estadísticas y subirlas al repositorio
     - name: Commit and push changes
       run: |
         git config user.name "github-actions[bot]"
