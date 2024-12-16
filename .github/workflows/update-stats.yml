@@ -5,7 +5,7 @@ on:
     - cron: "0 * * * *" # Runs every hour
   push:
     branches:
-      - main # Execute on push on main branch
+      - main # Cambia a la rama principal de tu repositorio si es diferente de 'main'
   workflow_dispatch: # Allows to execute manually
 
 jobs:
@@ -20,11 +20,13 @@ jobs:
       uses: anmol098/waka-readme-stats@master
       with:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        # Si estás usando WakaTime, agrega el API key aquí
+        # WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
     - name: Commit and push changes
       run: |
-        git config user.name "ChristianRTD"
-        git config user.email "crtapia@uce.edu.ec"
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add .
         git commit -m "Updated GitHub stats in README"
         git push
